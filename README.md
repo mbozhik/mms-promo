@@ -19,5 +19,5 @@ This project is an educational tool designed to automate the submission of promo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mms-promo.git
+   git clone https://github.com/mbozhik/mms-promo.git
    cd mms-promo
